@@ -1,61 +1,32 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/pineapple-circuit-board-art.jpg
 title: Cotton
-permalink: projects/cotton
+permalink: projects/weatherbox
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-02
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - PCB Design
+  - EAGLE
+  - Arduino
+  - Sensors
+summary: A weatherbox that my team "Team Pineapple" designed and coded to collect meteorlogical data.
 ---
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/pineapple_schematic.png">
+  <img class="ui image" src="../images/pineapple_pcb.png">
+  <img class="ui image" src="../images/pineapple_housing.png">
+  <img class="ui image" src="../images/pineapple_ganttchart.png">
+</div>
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="../images/scel.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The Smart Campus Energy Lab is dedicated to collecting meterological data by deploying environmental sensory nodes called "weatherboxes" on the roof of Holmes Hall; this collection of data is then utilized to predict forecast weather which would allow for the sustainability of energy by collecting and storing solar energy properly. The project's future goal is to turn the University of Hawaii at Manoa into a microgrid, a small-scale grid that is self-sustainable by creating enough energy as needed so that the land may thrive without being connected to the power grid.
 
-To give you a flavor of the game, here is an excerpt from one run:
+In this semester, my team and I designed and coded a weatherbox prototype that would collect meterological data when deployed by utilizing the SP215 solar irradiance sensor; BME280 temperature, pressure, and humidity sensor; and the XBEE transmitter. Using an Arduino, I utilized the separate sensor libraries and integrated them into a weatherbox code routine. The node would construct the data packet, transmit the packet to the lab gateway, clear the packet, then repeat the process. More information can be found in the GitHub link at the bottom of the page. In addition to coding, we also learned how to create a schematic and PCB (printed circuit board) design using Autodesk's EAGLE software. 
 
-<hr>
+You can learn more at [Wiki SCEL Team Pineapple](https://wiki.scel-hawaii.org/doku.php?id=weatherbox:team_pineapple:start).
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/liukeving/TeamPineapple"><i class="large github icon "></i>liukeving/TeamPineapple</a>
 
