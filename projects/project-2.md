@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/scel-dashboard.png
+image: images/scel.png
 title: Web Dashboard - Smart Campus Energy Lab
 permalink: projects/dashboard-scel
 # All dates must be YYYY-MM-DD format!
