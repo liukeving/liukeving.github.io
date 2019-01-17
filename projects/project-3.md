@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pineapple-circuit-board-art.jpg
-title: Cotton
+title: Weatherbox - Smart Campus Energy Lab
 permalink: projects/weatherbox
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-02
