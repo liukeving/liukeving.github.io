@@ -18,7 +18,6 @@ summary: My team developed a remote-control floatation collection device that wo
   <img class="ui image" src="../images/blueprints-first.jpg">
   <img class="ui image" src="../images/blueprintsdraft.jpg">
   <img class="ui image" src="../images/blueprintswork.jpg">
-  <img class="ui image" src="../images/blueprints-team.jpg">
 </div>
 
 <img class="ui image" src="../images/blueprints-team.jpg">
