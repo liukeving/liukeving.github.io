@@ -5,7 +5,7 @@ image: images/blueprints.jpg
 title: Blueprints
 permalink: projects/blueprints
 # All dates must be YYYY-MM-DD format!
-date: 2016
+date: 2016-12-03
 labels:
   - Soldering
   - Engineering Design Process
