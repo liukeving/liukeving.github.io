@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Kevin Liu",
+    "label": "Computer Engineering Student",
+    "picture": "https://liukeving.github.io/images/liukevin.jpg",
+    "email": "liukevin@hawaii.edu",
+    "phone": "808-256-7012",
+    "website": "https://liukeving.github.io",
+    "summary": "Aloha! I am Kevin Liu, a third-year student studying for a B.S. in Computer Engineering at the College of Engineering of the University of Hawaii at Manoa. I expect to graduate in Spring 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1101 Liliha Street 212",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "liukeving",
+        "url": "http://github.com/liukeving"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "liukeving",
+        "url": "http://linkedin.com/in/liukeving"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Software Engineering",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Mobile/Website Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cinematography/Photography",
       "keywords": [
       ]
     }
