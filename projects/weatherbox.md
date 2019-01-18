@@ -13,10 +13,11 @@ labels:
   - Sensors
 summary: A weatherbox that my team "Team Pineapple" designed and coded to collect meteorlogical data.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/pineapple_schematic.png">
   <img class="ui image" src="../images/pineapple_pcb.png">
   <img class="ui image" src="../images/pineapple_housing.png">
+  <img class="ui image" src="../images/pineapple_ganttchart.png">
 </div>
 
 The Smart Campus Energy Lab is dedicated to collecting meterological data by deploying environmental sensory nodes called "weatherboxes" on the roof of Holmes Hall; this collection of data is then utilized to predict forecast weather which would allow for the sustainability of energy by collecting and storing solar energy properly. The project's future goal is to turn the University of Hawaii at Manoa into a microgrid, a small-scale grid that is self-sustainable by creating enough energy as needed so that the land may thrive without being connected to the power grid.
