@@ -13,7 +13,7 @@ labels:
   - Sensors
 summary: A weatherbox that my team "Team Pineapple" designed and coded to collect meteorlogical data.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/pineapple_schematic.png">
   <img class="ui image" src="../images/pineapple_pcb.png">
   <img class="ui image" src="../images/pineapple_housing.png">
