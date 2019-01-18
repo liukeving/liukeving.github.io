@@ -71,55 +71,45 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (Expected Spring 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-05-30",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.67",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "College of Engineering",
+      "position": "Engineering Student Ambassador",
+      "website": "https://www.eng.hawaii.edu/outreach/outreachevents/",
+      "startDate": "2018-01-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Promote the College of Engineering and STEM to prospective students with outreach events",
+        "Visit local high schools to present about the College of Engineering to interested students",
+        "Host various professional development events such as Career Fairs and workshops"
+      ]
+    },
+     {
+      "company": "Smart Campus Energy Lab",
+      "position": "Software Developer",
+      "website": "http://scel-hawaii.org/",
+      "startDate": "2018-01-18",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Utilize React.js framework to create data visualization on website dashboard",
+        "Implemented Javascript, HTML, and CSS to better user interface of website",
+        "Constructed Graph Generator page that allows for node selection and displays data as graphs"
       ]
     }
   ],
   "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
     {
       "organization": "",
       "website": "",
@@ -128,24 +118,25 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "President, Circle K International at the University of Hawaii at Manoa, 2018-Present",
+        "Pledge, Eta Kappa Nu Delta Omega Chapter, 2018-Present",
+        "Vice President of Internal Affairs, Engineers' Council at the University of Hawaii, 2018-Present",
+        "ECUH Representative, IEEE Student Branch, 2018-Present"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Manoa Merit Scholar",
+      "date": "2016-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.5 at a Hawai'i public school."
     },
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "date": "2016",
+      "awarder": "College of Engineering Holmes Hall Challenge",
+      "summary": "My team won first place in 2016.  See my portfolio site for more details."
     }
   ],
   "references": [
