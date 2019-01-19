@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Burning Fire
+title: Burning Fire - Interests & Goals
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-17
 labels:
