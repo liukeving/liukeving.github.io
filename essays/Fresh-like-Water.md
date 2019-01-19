@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Fresh like Water Javascript
+title: Fresh Water - Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-18
 labels:
