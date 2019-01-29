@@ -7,6 +7,7 @@ date: 2018-01-24
 labels:
   - Smart Questions
   - Learning
+  - Assistance
 ---
 <img class="ui medium right floated rounded image" src="../images/smartquestion.jpg">
 
