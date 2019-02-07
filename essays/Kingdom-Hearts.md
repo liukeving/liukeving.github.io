@@ -12,7 +12,7 @@ labels:
 # Kingdom Hearts
 At the heart of every code, there are coding standards evident in each line. Coding standards has both its ups and downs in general like every video game, showcasing the goods and bads behind implementing this style of coding. By utilizing ESLint in IntelliJ IDEA, I was able to get a first-hand experience of both sides during this process. Personally, I really liked changing our environments from JSfiddle to IntelliJ IDEA since it organizes the project files neatly on the sidebar. 
 
-<img class="ui medium right floated rounded image" src="../images/heartless.jpg">
+<img class="ui medium right floated rounded image" src="../images/heartless.png">
 ## Heartless
 Coding standards is very precise in its style, being very picky about the small details of your code. It truly is like one of the "heartless" enemies from Kingdom Hearts, being simple to defeat but very annoying at the same time. During this week of using ESLint on IntelliJ IDEA, I got triggered at the very trivial errors such as adding an extra space after the end of the file or after declaring an if or for statement. It seems useless during these points of debugging since the formatting of code does not really affect the compilation of the project. 
 
