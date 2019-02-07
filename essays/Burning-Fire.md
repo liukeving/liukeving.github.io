@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Burning Fire - Interests & Goals
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-17
+date: 2019-01-17
 labels:
   - Software Engineering
   - Learning
