@@ -7,7 +7,7 @@ date: 2019-02-07
 labels:
   - Coding Standards
 ---
-<img class="ui large middle rounded image" src="../images/kingdom-hearts.jpg">
+<img class="ui large centered rounded image" src="../images/kingdom-hearts.jpg">
 
 # Kingdom Hearts
 At the heart of every code, there are coding standards evident in each line. Coding standards has both its ups and downs in general like every video game, showcasing the goods and bads behind implementing this style of coding. By utilizing ESLint in IntelliJ IDEA, I was able to get a first-hand experience of both sides during this process. Personally, I really liked changing our environments from JSfiddle to IntelliJ IDEA since it organizes the project files neatly on the sidebar. 
