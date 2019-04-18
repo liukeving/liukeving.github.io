@@ -9,7 +9,7 @@ labels:
   - Ethics
   - Reflection
 ---
-<img class="ui larger center image" src="../images/ethics.jpg">
+<img class="ui medium center image" src="../images/ethics.jpg">
 
 ## Typically Ethical
 Typically, we hear about the bad ethical choices of politicians and business owners on the news and do not think twice about it. However, these ethical choices are also present in software engineering environments as well. In the context of software engineering, it is the action of committing oneself with the positive moral principles of benefiting society during the process of development and/or creation. However, the idea of ethics is very broad and general, differing between one another. Thus, in order to guide software engineers in the correct direction, ACM outlines eight principles to adhere to.
