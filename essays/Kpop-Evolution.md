@@ -9,7 +9,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui large centered floated image" src="../images/kpop.jpg">
+<img class="ui large center floated image" src="../images/kpop.jpg">
 
 
 # Kpop to My Ears
