@@ -9,7 +9,8 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui large centered floated image" src="../images/websiteblog.png">
+<img class="ui large centered floated image" src="../images/kpop.jpg">
+
 
 # Kpop to My Ears
 Design patterns are basically a repeatable solution that can be applicable to solving a variety of commonly-occuring problems, speeding up the development process in the software development field. Similarly, Korean pop music can be designed in a similar fashion, creating hits one after the other. 
