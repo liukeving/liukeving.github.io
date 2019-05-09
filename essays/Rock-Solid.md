@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Rock Solid - Smart Questions
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-24
+date: 2019-01-24
 labels:
   - Smart Questions
   - Learning

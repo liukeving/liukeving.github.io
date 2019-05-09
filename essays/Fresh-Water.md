@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Fresh Water - Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2018-01-18
+date: 2019-01-18
 labels:
   - Athlete Software Engineering
   - Javascript
