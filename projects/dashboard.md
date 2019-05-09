@@ -11,7 +11,7 @@ labels:
   - React
   - HTML
   - CSS
-summary: A responsive web dashboard for meterological data visualization under Smart Campus Energy Lab
+summary: A responsive web dashboard for meteorological data visualization under Smart Campus Energy Lab
 ---
 
 <img class="ui large right floated rounded image" src="../images/scel-dashboard.png">

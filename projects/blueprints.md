@@ -28,7 +28,7 @@ For this project, our team under Eta Kappa Nu, an honor society dedicated for el
 
 Throughout the semester, we simulated the engineering design process, going through the stages of defining the problem, brainstorming solutions, creating a prototype, testing the prototype, and reflecting and improving. Overall, we went through three iterations of prototypes in order to create the best device that can collect multiple ping-pong balls quickly, reflecting each time in order to improve our design. 
 
-By participating in this project, I was able introduced to many different engineering aspects and gained many important skills necessary in the work field. Before starting to work on the prototypes, we learned about Gantt charts and the importance of time management. In addition, we also gained first-hand experience with soldering by installing the motors from the RC boats we bought into our model. Lastly, we were able to practice working in a group, public speaking, and time-mangaement skills. 
+By participating in this project, I was able introduced to many different engineering aspects and gained many important skills necessary in the work field. Before starting to work on the prototypes, we learned about Gantt charts and the importance of time management. In addition, we also gained first-hand experience with soldering by installing the motors from the RC boats we bought into our model. Lastly, we were able to practice working in a group, public speaking, and time-management skills. 
 
 You can learn more at the [Eta Kappa Nu - Fall 2016 Blueprints](http://hknhawaii.weebly.com/blueprints1.html).
 

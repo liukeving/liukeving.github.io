@@ -22,4 +22,4 @@ With my wide range of interests in designing, digital media, and technology, I d
 <img class="ui large right floated rounded image" src="../images/websiteblog.png">
 
 # Lit Fire Goals
-By taking ICS 314 at the University of Hawaii at Manoa, I hope to learn valuable skills and gain professional expertise. With this Software Engineering class, my goal is to learn new coding languages, concepts, and become a better coder. In addition, I plan to build upon my personal skills such as teamwork, time management, and perserverance. With these skill sets, I shall be able to design my own pathway towards my future!
+By taking ICS 314 at the University of Hawaii at Manoa, I hope to learn valuable skills and gain professional expertise. With this Software Engineering class, my goal is to learn new coding languages, concepts, and become a better coder. In addition, I plan to build upon my personal skills such as teamwork, time management, and perseverance. With these skill sets, I shall be able to design my own pathway towards my future!

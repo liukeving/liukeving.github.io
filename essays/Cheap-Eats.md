@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+draft: true
 title: "Final Project Idea"
 date: 2019-03-26
 labels:
@@ -14,7 +15,7 @@ College students are typically low on cash due to tuition and being a college st
 #### Solution:
 This website would list the best cheap eats on the island for college students to go. Various restaurants would be listed from the search bar. Depending on the user selection, the restaurant page would be shown.
 
-# Mockup Page Ideas
+# Mock Up Page Ideas
   * Home Landing Page
   * Restaurant Info Page
   * Top Restaurants Page
@@ -30,7 +31,7 @@ This page would allow users to search through the listing of available cheap eat
 This page would occur after clicking the selected restaurant. It would contain more information about the restaurant such as images of the restaurant and food, hours of operation, website link, menu, and prices of the food items.
 
 #### Top Restaurants Page
-The top upvoted 10 restaurants would be displayed on this page with their cost per meal under the name.
+The top up-voted 10 restaurants would be displayed on this page with their cost per meal under the name.
 
 #### Add/Edit/Delete Page
 This page allows admins to add a new restaurant, edit an existing restaurant, or delete an old restaurant. It would contain information such as the restaurant name, hours of operations, images, menu, and website link in order to have that restaurant available in the system. 
